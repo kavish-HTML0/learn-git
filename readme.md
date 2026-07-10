@@ -3,6 +3,7 @@
 ```python
 print("Hello World")
 ```
+
 ```javascript
-console.log("Hello World")
+console.log("Hello World");
 ```
